@@ -1,5 +1,6 @@
 # MazeDemo
 Maze Solver
+
 Generates random mazes and computes a solution for them using queues. Route taken when solving
 maze is represented by '*'. Project for coursework.
 
@@ -17,10 +18,13 @@ User will enter in valid coordinates for enter and exit row and for number of ro
 
 Addition features:
 Helper Functions-
+
 boolean inBounds(int row, int col)
+
 boolean UnvisitedNeighbors (int row, int col)
 
 Resources:
 Course Materials
+
 Starter code includes Cell, NGen, Q2Gen, Stack1Gen
 
